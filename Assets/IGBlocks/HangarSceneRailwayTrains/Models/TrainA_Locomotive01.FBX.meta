@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 5d728cf8dcc39f64b9516e31f9f09489
+timeCreated: 1582880542
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: TrainA_Locomotive01
+    100004: TrainA_LocoWheelDetail
+    100006: TrainA_LocoWheels01
+    100008: TrainA_LocoWheels02
+    100010: TrainA_LocoWheels03
+    100012: TrainA_LocoWheels04
+    100014: TrainA_LocoWheels05
+    100016: TrainA_LocoWheels06
+    400000: TrainA_Locomotive01
+    400002: //RootNode
+    400004: TrainA_LocoWheelDetail
+    400006: TrainA_LocoWheels01
+    400008: TrainA_LocoWheels02
+    400010: TrainA_LocoWheels03
+    400012: TrainA_LocoWheels04
+    400014: TrainA_LocoWheels05
+    400016: TrainA_LocoWheels06
+    2300000: TrainA_Locomotive01
+    2300002: TrainA_LocoWheelDetail
+    2300004: TrainA_LocoWheels01
+    2300006: TrainA_LocoWheels02
+    2300008: TrainA_LocoWheels03
+    2300010: TrainA_LocoWheels04
+    2300012: TrainA_LocoWheels05
+    2300014: TrainA_LocoWheels06
+    3300000: TrainA_Locomotive01
+    3300002: TrainA_LocoWheelDetail
+    3300004: TrainA_LocoWheels01
+    3300006: TrainA_LocoWheels02
+    3300008: TrainA_LocoWheels03
+    3300010: TrainA_LocoWheels04
+    3300012: TrainA_LocoWheels05
+    3300014: TrainA_LocoWheels06
+    4300000: TrainA_LocoWheels03
+    4300002: TrainA_LocoWheels01
+    4300004: TrainA_LocoWheels02
+    4300006: TrainA_LocoWheels06
+    4300008: TrainA_LocoWheels05
+    4300010: TrainA_LocoWheels04
+    4300012: TrainA_LocoWheelDetail
+    4300014: TrainA_Locomotive01
+    6400000: TrainA_Locomotive01
+    6400002: TrainA_LocoWheelDetail
+    6400004: TrainA_LocoWheels01
+    6400006: TrainA_LocoWheels02
+    6400008: TrainA_LocoWheels03
+    6400010: TrainA_LocoWheels04
+    6400012: TrainA_LocoWheels05
+    6400014: TrainA_LocoWheels06
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrainA_LocoWheels
+    second: {fileID: 2100000, guid: 2208e87e9f4e92347862d4f7532b4a42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrainA_Locomotive01
+    second: {fileID: 2100000, guid: 7543e89274bd5444fb4f1b330183f0f0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

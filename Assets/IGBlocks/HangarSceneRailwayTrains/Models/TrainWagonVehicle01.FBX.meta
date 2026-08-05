@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 54cfab4f6d5b7b4448d358a656f8c3d1
+timeCreated: 1582880542
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: TrainWagonVehicle01a
+    100004: TrainWagonVehicle01b
+    100006: TrainWagonVehicle01c
+    100008: TrainWagonVehicle01c2
+    100010: TrainWagonVehicle01d
+    100012: TrainWagonVehicle0Detail
+    100014: TrainWagonVehicle0Wheels
+    400000: //RootNode
+    400002: TrainWagonVehicle01a
+    400004: TrainWagonVehicle01b
+    400006: TrainWagonVehicle01c
+    400008: TrainWagonVehicle01c2
+    400010: TrainWagonVehicle01d
+    400012: TrainWagonVehicle0Detail
+    400014: TrainWagonVehicle0Wheels
+    2300000: TrainWagonVehicle01a
+    2300002: TrainWagonVehicle01b
+    2300004: TrainWagonVehicle01c
+    2300006: TrainWagonVehicle01c2
+    2300008: TrainWagonVehicle01d
+    2300010: TrainWagonVehicle0Detail
+    2300012: TrainWagonVehicle0Wheels
+    3300000: TrainWagonVehicle01a
+    3300002: TrainWagonVehicle01b
+    3300004: TrainWagonVehicle01c
+    3300006: TrainWagonVehicle01c2
+    3300008: TrainWagonVehicle01d
+    3300010: TrainWagonVehicle0Detail
+    3300012: TrainWagonVehicle0Wheels
+    4300000: TrainWagonVehicle0Wheels
+    4300002: TrainWagonVehicle01a
+    4300004: TrainWagonVehicle0Detail
+    4300006: TrainWagonVehicle01b
+    4300008: TrainWagonVehicle01c
+    4300010: TrainWagonVehicle01d
+    4300012: TrainWagonVehicle01c2
+    6400000: TrainWagonVehicle01a
+    6400002: TrainWagonVehicle01b
+    6400004: TrainWagonVehicle01c
+    6400006: TrainWagonVehicle01c2
+    6400008: TrainWagonVehicle01d
+    6400010: TrainWagonVehicle0Detail
+    6400012: TrainWagonVehicle0Wheels
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrainWagonVehicle01a
+    second: {fileID: 2100000, guid: 331ebcde767752f45b53d3dd1a4b9aea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrainWagonVehicle01b
+    second: {fileID: 2100000, guid: 98e37b6aae4188643afdaaa6dec38df1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrainWagonVehicle01c
+    second: {fileID: 2100000, guid: 2697776b8243a27419db58e7595b0f1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrainWagonVehicle01d
+    second: {fileID: 2100000, guid: 806661401e94b3a4aaa6384eaf954b2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrainWagonVehicle01d01
+    second: {fileID: 2100000, guid: 806661401e94b3a4aaa6384eaf954b2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrainWagonVehicle0Detail
+    second: {fileID: 2100000, guid: 77dfc5b49f5b20f45bc6fbc2453dbc9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrainWagonVehicle0Wheels
+    second: {fileID: 2100000, guid: 6dd9393db7a375a41a22e47cc6fb5a5a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

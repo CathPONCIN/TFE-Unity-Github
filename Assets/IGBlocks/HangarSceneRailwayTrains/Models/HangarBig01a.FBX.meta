@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: ff89da6d12203854aa1cc4e29b0be617
+timeCreated: 1582880363
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: HangarBig01_Border
+    100002: HangarBig01_Border_a
+    100004: HangarBig01_Carcass01
+    100006: HangarBig01_Carcass01_1
+    100008: HangarBig01_Carcass02
+    100010: HangarBig01_Carcass02a_box
+    100012: HangarBig01_Carcass03
+    100014: HangarBig01_Carcass03a1
+    100016: HangarBig01_DoorMtl
+    100018: HangarBig01_Floor
+    100020: HangarBig01_Lights
+    100022: HangarBig01_RailFloor
+    100024: HangarBig01_Railway
+    100026: HangarBig01_Roof01
+    100028: HangarBig01_Wall01a
+    100030: HangarBig01_Wall01a1
+    100032: HangarBig01_Wind01
+    100034: HangarBig01_Wind01Mtl
+    100036: HangarBig01_Wind01Mtl1
+    100038: HangarBig01_Window2
+    100040: HangarBig01_WindowMtl
+    100042: HangarBig01_WindowMtl2
+    100044: //RootNode
+    400000: HangarBig01_Border
+    400002: HangarBig01_Border_a
+    400004: HangarBig01_Carcass01
+    400006: HangarBig01_Carcass01_1
+    400008: HangarBig01_Carcass02
+    400010: HangarBig01_Carcass02a_box
+    400012: HangarBig01_Carcass03
+    400014: HangarBig01_Carcass03a1
+    400016: HangarBig01_DoorMtl
+    400018: HangarBig01_Floor
+    400020: HangarBig01_Lights
+    400022: HangarBig01_RailFloor
+    400024: HangarBig01_Railway
+    400026: HangarBig01_Roof01
+    400028: HangarBig01_Wall01a
+    400030: HangarBig01_Wall01a1
+    400032: HangarBig01_Wind01
+    400034: HangarBig01_Wind01Mtl
+    400036: HangarBig01_Wind01Mtl1
+    400038: HangarBig01_Window2
+    400040: HangarBig01_WindowMtl
+    400042: HangarBig01_WindowMtl2
+    400044: //RootNode
+    2300000: HangarBig01_Border
+    2300002: HangarBig01_Border_a
+    2300004: HangarBig01_Carcass01
+    2300006: HangarBig01_Carcass01_1
+    2300008: HangarBig01_Carcass02
+    2300010: HangarBig01_Carcass02a_box
+    2300012: HangarBig01_Carcass03
+    2300014: HangarBig01_Carcass03a1
+    2300016: HangarBig01_DoorMtl
+    2300018: HangarBig01_Floor
+    2300020: HangarBig01_Lights
+    2300022: HangarBig01_RailFloor
+    2300024: HangarBig01_Railway
+    2300026: HangarBig01_Roof01
+    2300028: HangarBig01_Wall01a
+    2300030: HangarBig01_Wall01a1
+    2300032: HangarBig01_Wind01
+    2300034: HangarBig01_Wind01Mtl
+    2300036: HangarBig01_Wind01Mtl1
+    2300038: HangarBig01_Window2
+    2300040: HangarBig01_WindowMtl
+    2300042: HangarBig01_WindowMtl2
+    3300000: HangarBig01_Border
+    3300002: HangarBig01_Border_a
+    3300004: HangarBig01_Carcass01
+    3300006: HangarBig01_Carcass01_1
+    3300008: HangarBig01_Carcass02
+    3300010: HangarBig01_Carcass02a_box
+    3300012: HangarBig01_Carcass03
+    3300014: HangarBig01_Carcass03a1
+    3300016: HangarBig01_DoorMtl
+    3300018: HangarBig01_Floor
+    3300020: HangarBig01_Lights
+    3300022: HangarBig01_RailFloor
+    3300024: HangarBig01_Railway
+    3300026: HangarBig01_Roof01
+    3300028: HangarBig01_Wall01a
+    3300030: HangarBig01_Wall01a1
+    3300032: HangarBig01_Wind01
+    3300034: HangarBig01_Wind01Mtl
+    3300036: HangarBig01_Wind01Mtl1
+    3300038: HangarBig01_Window2
+    3300040: HangarBig01_WindowMtl
+    3300042: HangarBig01_WindowMtl2
+    4300000: HangarBig01_WindowMtl
+    4300002: HangarBig01_Window2
+    4300004: HangarBig01_WindowMtl2
+    4300006: HangarBig01_DoorMtl
+    4300008: HangarBig01_Wall01a
+    4300010: HangarBig01_Roof01
+    4300012: HangarBig01_Carcass03
+    4300014: HangarBig01_Carcass01
+    4300016: HangarBig01_Wind01Mtl1
+    4300018: HangarBig01_Wind01
+    4300020: HangarBig01_RailFloor
+    4300022: HangarBig01_Border
+    4300024: HangarBig01_Carcass02
+    4300026: HangarBig01_Wind01Mtl
+    4300028: HangarBig01_Railway
+    4300030: HangarBig01_Floor
+    4300032: HangarBig01_Lights
+    4300034: HangarBig01_Carcass01_1
+    4300036: HangarBig01_Carcass03a1
+    4300038: HangarBig01_Carcass02a_box
+    4300040: HangarBig01_Border_a
+    4300042: HangarBig01_Wall01a1
+    6400000: HangarBig01_Border
+    6400002: HangarBig01_Border_a
+    6400004: HangarBig01_Carcass01
+    6400006: HangarBig01_Carcass01_1
+    6400008: HangarBig01_Carcass02
+    6400010: HangarBig01_Carcass02a_box
+    6400012: HangarBig01_Carcass03
+    6400014: HangarBig01_Carcass03a1
+    6400016: HangarBig01_DoorMtl
+    6400018: HangarBig01_Floor
+    6400020: HangarBig01_Lights
+    6400022: HangarBig01_RailFloor
+    6400024: HangarBig01_Railway
+    6400026: HangarBig01_Roof01
+    6400028: HangarBig01_Wall01a
+    6400030: HangarBig01_Wall01a1
+    6400032: HangarBig01_Wind01
+    6400034: HangarBig01_Wind01Mtl
+    6400036: HangarBig01_Wind01Mtl1
+    6400038: HangarBig01_Window2
+    6400040: HangarBig01_WindowMtl
+    6400042: HangarBig01_WindowMtl2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_Border
+    second: {fileID: 2100000, guid: 136c7f46b9cffd24f86cd395c7ac9df4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_Carcass01
+    second: {fileID: 2100000, guid: 1243777c30833fb4d8eaca7ea60062c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_Carcass02
+    second: {fileID: 2100000, guid: 165f14d6621eb9d4c83243222a099e27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_Carcass03
+    second: {fileID: 2100000, guid: f43b4f165cf3c684984a49d30cefba6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_DoorMtl
+    second: {fileID: 2100000, guid: 5b0e5326020bc0a4fbb88c224ddffda2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_Floor
+    second: {fileID: 2100000, guid: 31216b8bc411bc34a96560be6214bc24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_Light
+    second: {fileID: 2100000, guid: 1e59ea7a8c37abd4ab77235e0633ef3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_RailFloor
+    second: {fileID: 2100000, guid: 00d60aa12bc645d40912ef62244f0209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_Railway
+    second: {fileID: 2100000, guid: 0304eaa506689fb4b9dc6b05fbff4e77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_Roof01
+    second: {fileID: 2100000, guid: ae315e933bb5d0f46a37b2f266bd602b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_Roof02
+    second: {fileID: 2100000, guid: 3290435de6c5c9041abcc649b6a0ded7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_Wall01
+    second: {fileID: 2100000, guid: 8a146bcc5ec7a004c8aa8367c596d3a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_Wall02
+    second: {fileID: 2100000, guid: f526e6322f11b5e439a8d63c8d9be8c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_Wall03
+    second: {fileID: 2100000, guid: 942ca56555947b8499974b3587b4ee1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_Wind01
+    second: {fileID: 2100000, guid: e5054f24f6e191c4ab61c5e19572fa0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_Wind01Mtl
+    second: {fileID: 2100000, guid: 316a2573685e32b428f07cc50e49a87a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_Window2
+    second: {fileID: 2100000, guid: 03a19fb7bc001b84a99d2d976c1be4bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HangarBig01_WindowMtl
+    second: {fileID: 2100000, guid: ba4e259f0243f1643a67c91d7d36d450, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

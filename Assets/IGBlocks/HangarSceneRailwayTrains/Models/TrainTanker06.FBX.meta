@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 4e68b480b61b8a3458486eee4d7bcae0
+timeCreated: 1582880542
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: TrainTanker06
+    100004: TrainTanker0DetailBlack
+    100006: TrainTanker0Down
+    100008: TrainTanker0Wheels
+    400000: //RootNode
+    400002: TrainTanker06
+    400004: TrainTanker0DetailBlack
+    400006: TrainTanker0Down
+    400008: TrainTanker0Wheels
+    2300000: TrainTanker06
+    2300002: TrainTanker0DetailBlack
+    2300004: TrainTanker0Down
+    2300006: TrainTanker0Wheels
+    3300000: TrainTanker06
+    3300002: TrainTanker0DetailBlack
+    3300004: TrainTanker0Down
+    3300006: TrainTanker0Wheels
+    4300000: TrainTanker0Down
+    4300002: TrainTanker0DetailBlack
+    4300004: TrainTanker0Wheels
+    4300006: TrainTanker06
+    6400000: TrainTanker06
+    6400002: TrainTanker0DetailBlack
+    6400004: TrainTanker0Down
+    6400006: TrainTanker0Wheels
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrainTanker06
+    second: {fileID: 2100000, guid: 88c3a144130728044832a4aff34f29b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrainTanker0DetailBlack
+    second: {fileID: 2100000, guid: 6dfc938490918fb4cabaeec6e70e36a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrainTanker0Down
+    second: {fileID: 2100000, guid: 4666a52a00da9664584a51163c60bbfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TrainTanker0Wheels
+    second: {fileID: 2100000, guid: 6c4fc22392190f34887f2f9fddd3e0dd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
